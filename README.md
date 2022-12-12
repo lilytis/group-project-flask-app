@@ -44,6 +44,6 @@ List any stretch features you undertook in your README under a section called â€
     - Top bar navigation
     - Back to top
     - Jump to links for different sections
-        - **We didn't do this, but we are acknowledge & understand
+        - **We didn't do this, but we acknowledge & understand
             that there will be less points awarded. Thank you!**
     - Prettified
